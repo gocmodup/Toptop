@@ -1,0 +1,5 @@
+revanced-cache/
+revanced*.keystore
+*.jar
+*.apk
+*.aria2
